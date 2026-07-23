@@ -1,0 +1,10 @@
+{
+  "catalog": [
+    {
+      "type": "geojson",
+      "name": "Sydney Data Centres",
+      "description": "Sydney data centre locations used for UTS learning activities.",
+      "url": "https://raw.githubusercontent.com/Kevin-Millingham/LDT/refs/heads/main/sydney-data-centres.geojson"
+    }
+  ]
+}
