@@ -1,0 +1,182 @@
+{
+  "type": "FeatureCollection",
+  "name": "Sydney Data Centres",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Microsoft Azure Australia East-New South Wales",
+        "Address": "Microsoft Azure\n1 Denison Street\n2060 North Sydney\nNew South Wales, Australia",
+        "Latitude": -33.83838,
+        "Longitude": 151.208069
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.208069,
+          -33.83838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kyndryl Australia Data Center",
+        "Address": "Kyndryl Australia\nGeorge Street\n2000 Sydney\nNSW, Australia",
+        "Latitude": -33.8707537,
+        "Longitude": 151.2069861
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2069861,
+          -33.8707537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LeaseWeb Sydney SYD-11 Data Center",
+        "Address": "LeaseWeb\nunit a/200 Bourke Road\n2015 Alexandria Sydney\nNSW, Australia",
+        "Latitude": -33.9182536,
+        "Longitude": 151.1893704
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1893704,
+          -33.9182536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The ISPT / Summit Data Centre Campus",
+        "Address": "706-752 Mamre Road, Kemps Creek, NSW, 2178",
+        "Latitude": -33.8346188,
+        "Longitude": 150.7869275
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7869275,
+          -33.8346188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Microsoft Kemps Creek Datacenter",
+        "Address": "769 Mamre Road, Kemps Creek, NSW, 2178",
+        "Latitude": -33.8359067,
+        "Longitude": 150.7744315
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7744315,
+          -33.8359067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mamre Road Data Centre Campus - KNBDC SYD4 Pty Ltd (proponent listed in NSW Investment Delivery Authority material)",
+        "Address": "706–752 Mamre Road, Kemps Creek, NSW 2178",
+        "Latitude": -33.8346188,
+        "Longitude": 150.7869275
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7869275,
+          -33.8346188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Goodman Project Mars / Project Atlas (depending on naming used)",
+        "Address": "Lane Cove West, NSW 2066",
+        "Latitude": -33.8152,
+        "Longitude": 151.1521
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1521,
+          -33.8152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lane Cove Data Centre Development Project - DC Alliance",
+        "Address": "16–20 Mars Road, Lane Cove West, NSW 2066",
+        "Latitude": -33.8122342,
+        "Longitude": 151.1471073
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1471073,
+          -33.8122342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NEXTDC S7 Data Centre Eastern Creek",
+        "Address": "Eastern Creek, NSW 2766",
+        "Latitude": -33.8023,
+        "Longitude": 150.8692
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8692,
+          -33.8023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NEXTDC S4 Data Centre",
+        "Address": "Fairfield, NSW 2165",
+        "Latitude": -33.8707,
+        "Longitude": 150.9554
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9554,
+          -33.8707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "STACK Infrastructure 78 Lockwood Road Data Centre",
+        "Address": "78 Lockwood Road, Erskine Park NSW 2759, Australia",
+        "Latitude": -33.8158603,
+        "Longitude": 150.8117666
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8117666,
+          -33.8158603
+        ]
+      }
+    }
+  ]
+}
